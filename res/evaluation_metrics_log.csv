@@ -1,0 +1,4 @@
+column,RMSE,EMD,NNDR,original_file,synthetic_file
+age,2.116128540519219,0.5380000000000003,0.0019999999999999996,real_data.csv,synthetic_data.csv
+income,2666.5140520604023,319.61371110033895,4.825894670134701,real_data.csv,synthetic_data.csv
+purchased,0.6348228099241552,0.009000000000000008,0.0,real_data.csv,synthetic_data.csv

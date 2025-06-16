@@ -69,4 +69,4 @@ def generate_real_and_synthetic_data(n_samples=1000, output_dir="data", with_out
     print("✅ Real and synthetic data saved with outliers" if with_outliers else "✅ Synthetic data without outliers")
 
 # Example usage
-generate_real_and_synthetic_data(n_samples=1000, output_dir="data", with_outliers=True)
+generate_real_and_synthetic_data(n_samples=1000, output_dir="data", with_outliers=False)
